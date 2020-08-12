@@ -1380,6 +1380,9 @@ header.header-appear .navbar-top-default .header-social a:hover {
     font-size: 14px;
     position: relative;
 }
+#tulebox-main-title {
+    font-size: 4em;
+}
 .awaza .tp-count:after {
     content: '';
     border-radius: 36px;
